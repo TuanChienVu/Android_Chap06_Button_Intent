@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android_Chap06_UsingIntent</string>
+    <string name="screen1_name">This is my first screen</string>
+    <string name="screen2_name">This is my second screen</string>
+    <string name="buttontext">Click me to another screen</string>
+</resources>
